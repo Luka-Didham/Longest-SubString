@@ -1,5 +1,5 @@
 # Longest SubString
-### @Author Luka Didham
+##### @Author Luka Didham
 
 Program which takes in an alphabet of any character or an int 1-26 and creates the longest unique string without repreating substring patterns.
 Program uses 3 main variables, alphabet entered by user, array of two character long sequences used and the current longest string
