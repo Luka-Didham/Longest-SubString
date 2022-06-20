@@ -1,9 +1,6 @@
-#Etude 9
- @Author Luka Didham
- @Author Hayden Knox
- @Author Ariana Van Lith
- @Author Connor Dobson
- @Author Akshay Menon
+# Longest SubString
+### @Author Luka Didham
+
 Program which takes in an alphabet of any character or an int 1-26 and creates the longest unique string without repreating substring patterns.
 Program uses 3 main variables, alphabet entered by user, array of two character long sequences used and the current longest string
 of current user input. The process follows,
@@ -19,16 +16,18 @@ avoiding the character which lead us to an impossible pattern by incrementing st
 Uses import classes regex and math. We use regex.Pattern to pattern match the user input and distinguish between int and alphabet literal inputs.
 Uses math.pow class to work out when max string has been reached with the value of alphabet_length^2+1.
 
-##How to Compile
+## How to Compile
 To compile use the Kotlin compiler supported in most IDE's. Created and tested
 in IntelliJ IDEA 2021.
 
 To manually compile from the command line run
-$ kotlinc SubStringApp.kt -include-runtime -d SubStringApp.jar
-$ java -jar SubStringApp.jar
 
-##Test Results
-Input Alphabet to be used or int between 1-26
+`kotlinc SubStringApp.kt -include-runtime -d SubStringApp.jar`
+
+`java -jar SubStringApp.jar`
+
+## Test Results
+`Input Alphabet to be used or int between 1-26
 3
 aabacbbcca
 mfqwef
@@ -48,9 +47,5 @@ Input cannot be converted to an Int or a String. Acceptable input is numbers 1-2
 AaBbCc
 aabacbbcca
 !@#$%^&*(
-!!@!#!$!%!^!&!*!(@@#@$@%@^@&@*@(##$#%#^#&#*#($$%$^$&$*$(%%^%&%*%(^^&^*^(&&*&(**((!
+!!@!#!$!%!^!&!*!(@@#@$@%@^@&@*@(##$#%#^#&#*#($$%$^$&$*$(%%^%&%*%(^^&^*^(&&*&(**((!`
 
-##How we worked as a group
-We collectively talked through the algorithm and wrote it out on the whiteboard following the
-process and making sure the algorithm used actually worked. We then moved on to
-implementing the code and collectivly discussing challenges faced as a group.
