@@ -28,24 +28,44 @@ To manually compile from the command line run
 
 ## Test Results
 `Input Alphabet to be used or int between 1-26
+
 3
+
 aabacbbcca
+
 mfqwef
+
 mmfmqmwmeffqfwfeqqwqewweem
+
 26
+
 aabacadaeafagahaiajakalamanaoapaqarasatauavawaxayazbbcbdbebfbgbhbibjbkblbmbnbobpbqbrbsbtbubvbwbxbybzccdcecfcgchcicjckclcmcncocpcqcrcsctcucvcwcxcyczddedfdgdhdidjdkdldmdndodpdqdrdsdtdudvdwdxdydzeefegeheiejekelemeneoepeqereseteuevewexeyezffgfhfifjfkflfmfnfofpfqfrfsftfufvfwfxfyfzgghgigjgkglgmgngogpgqgrgsgtgugvgwgxgygzhhihjhkhlhmhnhohphqhrhshthuhvhwhxhyhziijikiliminioipiqirisitiuiviwixiyizjjkjljmjnjojpjqjrjsjtjujvjwjxjyjzkklkmknkokpkqkrksktkukvkwkxkykzllmlnlolplqlrlsltlulvlwlxlylzmmnmompmqmrmsmtmumvmwmxmymznnonpnqnrnsntnunvnwnxnynzoopoqorosotouovowoxoyozppqprpsptpupvpwpxpypzqqrqsqtquqvqwqxqyqzrrsrtrurvrwrxryrzsstsusvswsxsyszttutvtwtxtytzuuvuwuxuyuzvvwvxvyvzwwxwywzxxyxzyyzza
+
 27
+
 Entered int 27 is longer than the English Alphabet. Int must be between 1-26
+
 0
+
 Entered int 0 is cannot be entered as is less than one
+
 wejojf wfk
+
 Blank spaces detected. Please enter one complete word
+
 Input cannot be converted to an Int or a String. Acceptable input is numbers 1-26 or letters a-z
+
 ndjwen93294
+
 Cannot convert input to int
+
 Input cannot be converted to an Int or a String. Acceptable input is numbers 1-26 or letters a-z
+
 AaBbCc
+
 aabacbbcca
+
 !@#$%^&*(
+
 !!@!#!$!%!^!&!*!(@@#@$@%@^@&@*@(##$#%#^#&#*#($$%$^$&$*$(%%^%&%*%(^^&^*^(&&*&(**((!`
 
