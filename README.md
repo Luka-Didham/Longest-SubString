@@ -27,7 +27,7 @@ To manually compile from the command line run
 `java -jar SubStringApp.jar`
 
 ## Test Results
-`Input Alphabet to be used or int between 1-26
+Input Alphabet to be used or int between 1-26
 
 3
 
@@ -67,5 +67,5 @@ aabacbbcca
 
 !@#$%^&*(
 
-!!@!#!$!%!^!&!*!(@@#@$@%@^@&@*@(##$#%#^#&#*#($$%$^$&$*$(%%^%&%*%(^^&^*^(&&*&(**((!`
+!!@!#!$!%!^!&!*!(@@#@$@%@^@&@*@(##$#%#^#&#*#($$%$^$&$*$(%%^%&%*%(^^&^*^(&&*&(**((!
 
